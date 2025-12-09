@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\models\\savedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:models\\savedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\converters\\enumtospanishconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:converters\\enumtospanishconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\icombatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\icombatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SavedGame.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Models\\SavedGame.cs",
-              "RelativeDocumentMoniker": "Models\\SavedGame.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Models\\SavedGame.cs",
-              "RelativeToolTip": "Models\\SavedGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ICombatService.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
+              "RelativeDocumentMoniker": "Services\\ICombatService.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
+              "RelativeToolTip": "Services\\ICombatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T20:10:11.761Z",
+              "WhenOpened": "2025-12-09T22:13:38.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\IDatabaseService.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
+              "RelativeToolTip": "Services\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:12:51.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICharacterRepository.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ICharacterRepository.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
+              "RelativeToolTip": "Services\\ICharacterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:06:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAKwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:06:22.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombatService.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
+              "RelativeDocumentMoniker": "Services\\CombatService.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
+              "RelativeToolTip": "Services\\CombatService.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAAAJsBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:06:04.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnumToSpanishConverter.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Converters\\EnumToSpanishConverter.cs",
-              "RelativeDocumentMoniker": "Converters\\EnumToSpanishConverter.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Converters\\EnumToSpanishConverter.cs",
-              "RelativeToolTip": "Converters\\EnumToSpanishConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Title": "CharacterRepository.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CharacterRepository.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
+              "RelativeToolTip": "Services\\CharacterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T20:10:03.043Z",
+              "WhenOpened": "2025-12-09T22:05:44.255Z",
               "EditorCaption": ""
             }
           ]
