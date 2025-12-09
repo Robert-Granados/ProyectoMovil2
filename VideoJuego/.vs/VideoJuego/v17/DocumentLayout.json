@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\models\\savedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:models\\savedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\converters\\enumtospanishconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:converters\\enumtospanishconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavedGame.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Models\\SavedGame.cs",
+              "RelativeDocumentMoniker": "Models\\SavedGame.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Models\\SavedGame.cs",
+              "RelativeToolTip": "Models\\SavedGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:10:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumToSpanishConverter.cs",
+              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Converters\\EnumToSpanishConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\EnumToSpanishConverter.cs",
+              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Converters\\EnumToSpanishConverter.cs",
+              "RelativeToolTip": "Converters\\EnumToSpanishConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:10:03.043Z",
+              "EditorCaption": ""
             }
           ]
         }
