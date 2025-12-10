@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.CreditsPage"
+             Title="Créditos">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="12">
+            <Label Text="Créditos"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="{DynamicResource AccentPurple}"
+                   HorizontalTextAlignment="Center" />
+            <Frame BackgroundColor="{DynamicResource CardBackgroundColor}"
+                   BorderColor="{DynamicResource SectionBorderColor}"
+                   CornerRadius="16"
+                   Padding="16"
+                   HasShadow="False">
+                <VerticalStackLayout Spacing="8">
+                    <Label Text="Proyecto: Guerra de Reinos"
+                           FontSize="16"
+                           FontAttributes="Bold" />
+                    <Label Text="Autor: Estudiante UTN - Curso Desarrollo de Videojuegos Móviles (.NET MAUI)"
+                           FontSize="14" />
+                    <Label Text="Profesor: Nombre del profesor / cátedra"
+                           FontSize="14" />
+                    <Label Text="Tecnologías: C#, .NET MAUI, MVVM, SQLite"
+                           FontSize="14" />
+                </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

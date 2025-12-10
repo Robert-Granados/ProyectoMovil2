@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.LoadGamePage"
+             Title="Cargar partida">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="12">
+            <Label Text="Selecciona una partida guardada"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   TextColor="{DynamicResource AccentPurple}" />
+
+            <CollectionView x:Name="SavesCollection"
+                            ItemsSource="{Binding SavedGames}"
+                            SelectionMode="None"
+                            HeightRequest="520">
+                <CollectionView.EmptyView>
+                    <Label Text="No hay partidas guardadas."
+                           HorizontalTextAlignment="Center"
+                           TextColor="{DynamicResource SecondaryTextColor}"
+                           Margin="0,20" />
+                </CollectionView.EmptyView>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="12"
+                               BorderColor="{DynamicResource SectionBorderColor}"
+                               BackgroundColor="{DynamicResource CardBackgroundColor}"
+                               CornerRadius="12"
+                               Margin="0,6"
+                               HasShadow="False">
+                            <VerticalStackLayout Spacing="6">
+                                <Label FontAttributes="Bold"
+                                       FontSize="16">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding Player1Name}" />
+                                            <Span Text=" vs " />
+                                            <Span Text="{Binding Player2Name}" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Label Text="{Binding LastSavedAt, StringFormat='Guardado: {0:dd/MM/yyyy HH:mm}'}"
+                                       FontSize="13"
+                                       TextColor="{DynamicResource SecondaryTextColor}" />
+                                <Label Text="{Binding TurnNumber, StringFormat='Turno: {0}'}"
+                                       FontSize="13"
+                                       TextColor="{DynamicResource SecondaryTextColor}" />
+                                <Button Text="Cargar"
+                                        Command="{Binding BindingContext.LoadSelectedSaveCommand, Source={x:Reference SavesCollection}}"
+                                        CommandParameter="{Binding .}"
+                                        Style="{StaticResource SecondaryMenuButtonStyle}" />
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

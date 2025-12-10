@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.CharacterSelectionPage"
+             Title="Seleccion de personajes">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="18">
+            <Label Text="Configura tus personajes" FontSize="30" HorizontalTextAlignment="Center" TextColor="#B388FF" />
+            <Label Text="Elige raza y arma/elemento para cada jugador" FontSize="14" HorizontalTextAlignment="Center" Opacity="0.8" />
+
+            <Frame BorderColor="{DynamicResource SectionBorderColor}" BackgroundColor="{DynamicResource CardBackgroundColor}" CornerRadius="12" Padding="12">
+                <VerticalStackLayout Spacing="8">
+                    <Label Text="{Binding Player1Name, StringFormat='Jugador 1: {0}'}" FontSize="16" />
+                    <Picker Title="Raza" ItemsSource="{Binding Races}" SelectedItem="{Binding SelectedRace1}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Arma (Humano)" ItemsSource="{Binding HumanWeapons}" SelectedItem="{Binding SelectedHumanWeapon1}" IsVisible="{Binding IsHuman1}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Elemento (Elfo)" ItemsSource="{Binding ElfElements}" SelectedItem="{Binding SelectedElfElement1}" IsVisible="{Binding IsElf1}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Arma (Orco)" ItemsSource="{Binding OrcWeapons}" SelectedItem="{Binding SelectedOrcWeapon1}" IsVisible="{Binding IsOrc1}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Ataque (Bestia)" ItemsSource="{Binding BeastAttacks}" SelectedItem="{Binding SelectedBeastAttack1}" IsVisible="{Binding IsBeast1}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <Frame BorderColor="{DynamicResource SectionBorderColor}" BackgroundColor="{DynamicResource CardBackgroundColor}" CornerRadius="12" Padding="12">
+                <VerticalStackLayout Spacing="8">
+                    <Label Text="{Binding Player2Name, StringFormat='Jugador 2: {0}'}" FontSize="16" />
+                    <Picker Title="Raza" ItemsSource="{Binding Races}" SelectedItem="{Binding SelectedRace2}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Arma (Humano)" ItemsSource="{Binding HumanWeapons}" SelectedItem="{Binding SelectedHumanWeapon2}" IsVisible="{Binding IsHuman2}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Elemento (Elfo)" ItemsSource="{Binding ElfElements}" SelectedItem="{Binding SelectedElfElement2}" IsVisible="{Binding IsElf2}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Arma (Orco)" ItemsSource="{Binding OrcWeapons}" SelectedItem="{Binding SelectedOrcWeapon2}" IsVisible="{Binding IsOrc2}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                    <Picker Title="Ataque (Bestia)" ItemsSource="{Binding BeastAttacks}" SelectedItem="{Binding SelectedBeastAttack2}" IsVisible="{Binding IsBeast2}" ItemDisplayBinding="{Binding ., Converter={StaticResource EnumToSpanishConverter}}" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <Button Text="Comenzar combate" Command="{Binding StartBattleCommand}" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

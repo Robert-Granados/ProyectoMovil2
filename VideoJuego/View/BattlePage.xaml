@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.BattlePage"
+             Title="Combate">
+    <ScrollView>
+        <VerticalStackLayout Padding="16" Spacing="12">
+            <Label Text="Combate"
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   TextColor="{DynamicResource AccentPurple}"
+                   HorizontalTextAlignment="Center" />
+            <Label Text="Duelo de Sombras"
+                   FontSize="20"
+                   TextColor="{DynamicResource SecondaryTextColor}"
+                   HorizontalTextAlignment="Center" />
+
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="10" RowDefinitions="Auto,Auto" Padding="6,0">
+                <Label Grid.Row="0" Grid.Column="0" Text="{Binding Player1HealthText}" FontSize="14" HorizontalTextAlignment="Start" />
+                <Label Grid.Row="0" Grid.Column="1" Text="{Binding Player2HealthText}" FontSize="14" HorizontalTextAlignment="End" />
+                <ProgressBar Grid.Row="1" Grid.Column="0" Progress="{Binding Player1HealthRatio}" HeightRequest="6" />
+                <ProgressBar Grid.Row="1" Grid.Column="1" Progress="{Binding Player2HealthRatio}" HeightRequest="6" />
+            </Grid>
+
+            <Label Text="{Binding Distance, StringFormat='Distancia: {0} (0=cuerpo a cuerpo, 2=lejos)'}"
+                   FontSize="15"
+                   HorizontalTextAlignment="Center" />
+            <Label Text="{Binding ActivePlayerName, StringFormat='Turno de: {0}'}"
+                   FontAttributes="Bold"
+                   FontSize="16"
+                   HorizontalTextAlignment="Center" />
+
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="12" Padding="0,6,0,0">
+                <Image x:Name="Player1Image"
+                       Source="{Binding Player1Image}"
+                       HeightRequest="200"
+                       Aspect="AspectFit"
+                       HorizontalOptions="Center" />
+                <Image x:Name="Player2Image"
+                       Grid.Column="1"
+                       Source="{Binding Player2Image}"
+                       HeightRequest="200"
+                       Aspect="AspectFit"
+                       HorizontalOptions="Center" />
+            </Grid>
+
+            <Grid ColumnDefinitions="*,*,*,*" ColumnSpacing="10" Margin="0,6,0,0"
+                  HeightRequest="72"
+                  HorizontalOptions="FillAndExpand">
+                <Button Text="Avanzar"
+                        Grid.Column="0"
+                        Style="{StaticResource AdvanceButtonStyle}"
+                        Command="{Binding AdvanceCommand}"
+                        HorizontalOptions="Fill" />
+                <Button Text="Retroceder"
+                        Grid.Column="1"
+                        Style="{StaticResource RetreatButtonStyle}"
+                        Command="{Binding RetreatCommand}"
+                        HorizontalOptions="Fill" />
+                <Button Text="{Binding AttackLabel}"
+                        Grid.Column="2"
+                        Style="{StaticResource AttackButtonStyle}"
+                        Command="{Binding AttackCommand}"
+                        HorizontalOptions="Fill" />
+                <Button Text="Curar"
+                        Grid.Column="3"
+                        Style="{StaticResource HealButtonStyle}"
+                        Command="{Binding HealCommand}"
+                        HorizontalOptions="Fill" />
+            </Grid>
+
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="10" Margin="0,6,0,0">
+                <Button Text="Guardar partida"
+                        Grid.Column="0"
+                        Style="{StaticResource SaveButtonStyle}"
+                        Command="{Binding SaveGameCommand}"
+                        HorizontalOptions="Fill" />
+                <Button Text="Reiniciar partida"
+                        Grid.Column="1"
+                        Style="{StaticResource RestartButtonStyle}"
+                        Command="{Binding RestartGameCommand}"
+                        HorizontalOptions="Fill" />
+            </Grid>
+
+            <Button Text="Salir al menú"
+                    Command="{Binding ExitToMainMenuCommand}"
+                    Style="{StaticResource SecondaryMenuButtonStyle}"
+                    HorizontalOptions="Fill" />
+
+            <Label Text="Registro de batalla" FontAttributes="Bold" FontSize="16" TextColor="{DynamicResource SecondaryTextColor}" Margin="4,8,4,0" />
+            <CollectionView ItemsSource="{Binding Log}" HeightRequest="220">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="8"
+                               BorderColor="{DynamicResource SectionBorderColor}"
+                               CornerRadius="10"
+                               Margin="0,4"
+                               BackgroundColor="{DynamicResource CardBackgroundColor}"
+                               HasShadow="False">
+                            <Label Text="{Binding .}" FontSize="13" />
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
