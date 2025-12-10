@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xaml-comp compile="true" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    x:Class="VideoJuego.Resources.Themes.LightTheme">
+    <Color x:Key="PageBackgroundColor">#F4F1FB</Color>
+    <Color x:Key="CardBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="PrimaryTextColor">#1B1035</Color>
+    <Color x:Key="SecondaryTextColor">#4A3D71</Color>
+    <Color x:Key="MutedTextColor">#6B5C8E</Color>
+    <Color x:Key="AccentPurple">#7C4DFF</Color>
+    <Color x:Key="AccentPurpleDeep">#5E35B1</Color>
+    <Color x:Key="MenuButtonBackground">#7E57C2</Color>
+    <Color x:Key="MenuButtonSecondaryBackground">#6A4FBF</Color>
+    <Color x:Key="MenuButtonDisabledBackground">#D1C4E9</Color>
+    <Color x:Key="MenuButtonTextColor">#FFFFFF</Color>
+    <Color x:Key="SectionBorderColor">#D7CCE8</Color>
+    <Color x:Key="SectionShadowColor">#22143D</Color>
+
+    <Color x:Key="ActionAttackColor">#E53935</Color>
+    <Color x:Key="ActionHealColor">#388E3C</Color>
+    <Color x:Key="ActionAdvanceColor">#66BB6A</Color>
+    <Color x:Key="ActionRetreatColor">#757575</Color>
+    <Color x:Key="ActionSaveColor">#7E57C2</Color>
+    <Color x:Key="ActionRestartColor">#FFB74D</Color>
+
+    <SolidColorBrush x:Key="PageBackgroundBrush" Color="{StaticResource PageBackgroundColor}" />
+    <SolidColorBrush x:Key="CardBackgroundBrush" Color="{StaticResource CardBackgroundColor}" />
+    <SolidColorBrush x:Key="PrimaryTextBrush" Color="{StaticResource PrimaryTextColor}" />
+    <SolidColorBrush x:Key="SecondaryTextBrush" Color="{StaticResource SecondaryTextColor}" />
+    <SolidColorBrush x:Key="MutedTextBrush" Color="{StaticResource MutedTextColor}" />
+    <SolidColorBrush x:Key="AccentPurpleBrush" Color="{StaticResource AccentPurple}" />
+    <SolidColorBrush x:Key="AccentPurpleDeepBrush" Color="{StaticResource AccentPurpleDeep}" />
+</ResourceDictionary>

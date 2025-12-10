@@ -56,3 +56,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/PROYECTO02-MOVIL/ProyectoMovil2/VideoJuego/Resources/Themes/DarkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Themes.DarkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Themes\DarkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Themes\DarkTheme.xaml
+
+[C:/PROYECTO02-MOVIL/ProyectoMovil2/VideoJuego/Resources/Themes/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Themes.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Themes\LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Themes\LightTheme.xaml

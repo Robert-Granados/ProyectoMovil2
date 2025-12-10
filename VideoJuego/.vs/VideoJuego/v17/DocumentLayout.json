@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\statsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\statsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\playersetupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\playersetupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\matchsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\matchsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\resources\\themes\\lighttheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:resources\\themes\\lighttheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\resources\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:resources\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\resources\\themes\\darktheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:resources\\themes\\darktheme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\resources\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:resources\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\loadgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\loadgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\battleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\battleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\videojuego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,50 +110,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoadGameViewModel.cs",
-              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\LoadGameViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoadGameViewModel.cs",
-              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\LoadGameViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoadGameViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MainMenuViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\MainMenuViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainMenuViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\MainMenuViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainMenuViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA/wE8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T18:02:10.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CharacterSelectionViewModel.cs",
-              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\CharacterSelectionViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\CharacterSelectionViewModel.cs",
-              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\CharacterSelectionViewModel.cs",
-              "RelativeToolTip": "ViewModels\\CharacterSelectionViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:54:56.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BattleViewModel.cs",
-              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\BattleViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\BattleViewModel.cs",
-              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\BattleViewModel.cs",
-              "RelativeToolTip": "ViewModels\\BattleViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:51:02.668Z",
+              "WhenOpened": "2025-12-10T20:26:27.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MatchSummaryViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\MatchSummaryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MatchSummaryViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\MatchSummaryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MatchSummaryViewModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:30:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSetupViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\PlayerSetupViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PlayerSetupViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\PlayerSetupViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PlayerSetupViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:31:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatsViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\StatsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StatsViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\StatsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\StatsViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:32:45.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:36:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
@@ -130,8 +192,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VideoJuego",
+              "DocumentIndex": 6,
+              "Title": "LightTheme.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\LightTheme.xaml.cs",
+              "RelativeDocumentMoniker": "Resources\\Themes\\LightTheme.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\LightTheme.xaml.cs",
+              "RelativeToolTip": "Resources\\Themes\\LightTheme.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:59:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "Resources\\Themes\\LightTheme.xaml",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\LightTheme.xaml",
+              "RelativeToolTip": "Resources\\Themes\\LightTheme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T20:58:51.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DarkTheme.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\DarkTheme.xaml.cs",
+              "RelativeDocumentMoniker": "Resources\\Themes\\DarkTheme.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\DarkTheme.xaml.cs",
+              "RelativeToolTip": "Resources\\Themes\\DarkTheme.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:59:02.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "Resources\\Themes\\DarkTheme.xaml",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Resources\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "Resources\\Themes\\DarkTheme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T20:58:22.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoadGameViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\LoadGameViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoadGameViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\LoadGameViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoadGameViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:02:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CharacterSelectionViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\CharacterSelectionViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CharacterSelectionViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\CharacterSelectionViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CharacterSelectionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:54:56.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BattleViewModel.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\BattleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BattleViewModel.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\ViewModels\\BattleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BattleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:51:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VideoJuego.csproj",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\VideoJuego.csproj",
               "RelativeDocumentMoniker": "VideoJuego.csproj",
               "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\VideoJuego.csproj",
@@ -143,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "IPlayerRepository.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\IPlayerRepository.cs",
               "RelativeDocumentMoniker": "Services\\IPlayerRepository.cs",
@@ -151,12 +302,11 @@
               "RelativeToolTip": "Services\\IPlayerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:06:44.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:06:44.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "CombatService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
               "RelativeDocumentMoniker": "Services\\CombatService.cs",
@@ -164,12 +314,11 @@
               "RelativeToolTip": "Services\\CombatService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T22:06:04.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T22:06:04.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ISaveGameService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\ISaveGameService.cs",
               "RelativeDocumentMoniker": "Services\\ISaveGameService.cs",
@@ -177,12 +326,11 @@
               "RelativeToolTip": "Services\\ISaveGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:08:32.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:08:32.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "IMatchRepository.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\IMatchRepository.cs",
               "RelativeDocumentMoniker": "Services\\IMatchRepository.cs",
@@ -190,12 +338,11 @@
               "RelativeToolTip": "Services\\IMatchRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:06:00.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:06:00.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "ImageService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\ImageService.cs",
               "RelativeDocumentMoniker": "Services\\ImageService.cs",
@@ -203,12 +350,11 @@
               "RelativeToolTip": "Services\\ImageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:05:19.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:05:19.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "IImageService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\IImageService.cs",
               "RelativeDocumentMoniker": "Services\\IImageService.cs",
@@ -216,12 +362,11 @@
               "RelativeToolTip": "Services\\IImageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:04:21.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:04:21.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "IDatabaseService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
               "RelativeDocumentMoniker": "Services\\IDatabaseService.cs",
@@ -229,12 +374,11 @@
               "RelativeToolTip": "Services\\IDatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T22:12:51.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T22:12:51.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "ICombatService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
               "RelativeDocumentMoniker": "Services\\ICombatService.cs",
@@ -242,12 +386,11 @@
               "RelativeToolTip": "Services\\ICombatService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T22:13:38.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T22:13:38.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "ICharacterRepository.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
               "RelativeDocumentMoniker": "Services\\ICharacterRepository.cs",
@@ -255,12 +398,11 @@
               "RelativeToolTip": "Services\\ICharacterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T22:06:38.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T22:06:38.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
@@ -268,12 +410,11 @@
               "RelativeToolTip": "Services\\DatabaseService.cs",
               "ViewState": "AgIAAKsAAAAAAAAAAIBJwKwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T22:06:22.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T22:06:22.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "CharacterRepository.cs",
               "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
               "RelativeDocumentMoniker": "Services\\CharacterRepository.cs",
@@ -281,8 +422,7 @@
               "RelativeToolTip": "Services\\CharacterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T22:05:44.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T22:05:44.255Z"
             }
           ]
         }
