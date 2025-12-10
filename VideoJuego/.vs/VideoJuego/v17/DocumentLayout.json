@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\",
+  "WorkspaceRootPath": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\isavegameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\isavegameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\isavegameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyectofinalmoviles\\proyectomovil2\\videojuego\\services\\icombatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto2moviles\\proyectomovil2\\videojuego\\services\\icombatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:services\\icombatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,84 +58,79 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ISaveGameService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ISaveGameService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ISaveGameService.cs",
               "RelativeDocumentMoniker": "Services\\ISaveGameService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ISaveGameService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ISaveGameService.cs",
               "RelativeToolTip": "Services\\ISaveGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:08:32.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:08:32.393Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IPlayerRepository.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IPlayerRepository.cs",
               "RelativeDocumentMoniker": "Services\\IPlayerRepository.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IPlayerRepository.cs",
               "RelativeToolTip": "Services\\IPlayerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:06:44.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:06:44.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IMatchRepository.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IMatchRepository.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IMatchRepository.cs",
               "RelativeDocumentMoniker": "Services\\IMatchRepository.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IMatchRepository.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IMatchRepository.cs",
               "RelativeToolTip": "Services\\IMatchRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:06:00.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:06:00.577Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ImageService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ImageService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ImageService.cs",
               "RelativeDocumentMoniker": "Services\\ImageService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ImageService.cs",
               "RelativeToolTip": "Services\\ImageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:05:19.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:05:19.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IImageService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IImageService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IImageService.cs",
               "RelativeDocumentMoniker": "Services\\IImageService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IImageService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IImageService.cs",
               "RelativeToolTip": "Services\\IImageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:04:21.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:04:21.648Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IDatabaseService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
               "RelativeDocumentMoniker": "Services\\IDatabaseService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\IDatabaseService.cs",
               "RelativeToolTip": "Services\\IDatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,9 +140,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CombatService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
               "RelativeDocumentMoniker": "Services\\CombatService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
               "RelativeToolTip": "Services\\CombatService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ICombatService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
               "RelativeDocumentMoniker": "Services\\ICombatService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ICombatService.cs",
               "RelativeToolTip": "Services\\ICombatService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ICharacterRepository.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
               "RelativeDocumentMoniker": "Services\\ICharacterRepository.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\ICharacterRepository.cs",
               "RelativeToolTip": "Services\\ICharacterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "DatabaseService.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\DatabaseService.cs",
               "RelativeToolTip": "Services\\DatabaseService.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAAAKwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CharacterRepository.cs",
-              "DocumentMoniker": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
+              "DocumentMoniker": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
               "RelativeDocumentMoniker": "Services\\CharacterRepository.cs",
-              "ToolTip": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
+              "ToolTip": "C:\\Proyecto2moviles\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
               "RelativeToolTip": "Services\\CharacterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
