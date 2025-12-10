@@ -1,6 +1,6 @@
 ﻿using VideoJuego.Models;
 
-/*namespace VideoJuego.Services;
+namespace VideoJuego.Services;
 
 public class CombatService : ICombatService
 {
@@ -10,7 +10,7 @@ public class CombatService : ICombatService
     public CombatService(IImageService imageService)
     {
         _imageService = imageService;
-    
+    }
 
     public CombatState StartBattle(string player1, CharacterConfig config1, string player2, CharacterConfig config2)
     {
@@ -472,4 +472,3 @@ public class CombatService : ICombatService
 
     private int RandomRangeInt(int minInclusive, int maxInclusive) => _random.Next(minInclusive, maxInclusive + 1);
 }
-*/
