@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.GuidePage"
+             Title="Guía de juego">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="12">
+            <Label Text="Guía de juego"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="{DynamicResource AccentPurple}"
+                   HorizontalTextAlignment="Center" />
+            <Frame BackgroundColor="{DynamicResource CardBackgroundColor}"
+                   BorderColor="{DynamicResource SectionBorderColor}"
+                   CornerRadius="16"
+                   Padding="16"
+                   HasShadow="False">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Razas y habilidades" FontSize="18" FontAttributes="Bold" />
+                    <Label Text="Humanos: escopeta a corta distancia o rifle de largo alcance. Pueden curarse de forma moderada."
+                           FontSize="14" />
+                    <Label Text="Elfos: magia de Fuego, Tierra, Aire o Agua. Aire permite esquivar; Agua cura más."
+                           FontSize="14" />
+                    <Label Text="Orcos: hacha con sangrado o martillo con daño consistente. Sus pociones curan ahora y al siguiente turno."
+                           FontSize="14" />
+                    <Label Text="Bestias: espada rápida o puños devastadores que también dañan al atacante."
+                           FontSize="14" />
+
+                    <Label Text="Sistema de distancia" FontSize="18" FontAttributes="Bold" Margin="0,4,0,0" />
+                    <Label Text="0 = cuerpo a cuerpo, 1 = media, 2 = larga. Avanzar y retroceder modifican la distancia; algunas armas requieren estar cerca."
+                           FontSize="14" />
+
+                    <Label Text="Condición de victoria" FontSize="18" FontAttributes="Bold" Margin="0,4,0,0" />
+                    <Label Text="La partida termina cuando un jugador queda sin vida. Se registran victorias, derrotas o empates según corresponda."
+                           FontSize="14" />
+
+                    <Label Text="Guardar y continuar partida" FontSize="18" FontAttributes="Bold" Margin="0,4,0,0" />
+                    <Label Text="En combate, pulsa “Guardar partida” para persistir vida, distancia, turno y efectos activos. Al volver al menú, si hay una partida guardada aparecerá “Continuar partida” y retomará el combate."
+                           FontSize="14" />
+                </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
