@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ProyectoFinalMoviles\\ProyectoMovil2\\VideoJuego\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:views\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:views\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\playersetuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:views\\playersetuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\playersetuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748B676F-724E-4895-8F38-05564987279A}|VideoJuego.csproj|solutionrelative:views\\playersetuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatsPage.xaml",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\StatsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StatsPage.xaml",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\StatsPage.xaml",
+              "RelativeToolTip": "Views\\StatsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T04:39:40.492Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatsPage.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\StatsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StatsPage.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\StatsPage.xaml.cs",
+              "RelativeToolTip": "Views\\StatsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:39:50.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSetupPage.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\PlayerSetupPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PlayerSetupPage.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\PlayerSetupPage.xaml.cs",
+              "RelativeToolTip": "Views\\PlayerSetupPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:38:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerSetupPage.xaml",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\PlayerSetupPage.xaml",
+              "RelativeDocumentMoniker": "Views\\PlayerSetupPage.xaml",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\PlayerSetupPage.xaml",
+              "RelativeToolTip": "Views\\PlayerSetupPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T04:38:37.163Z",
+              "EditorCaption": ""
             }
           ]
         }
