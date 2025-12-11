@@ -17,80 +17,92 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VideoJuego
-build_property.ProjectDir = C:\Proyecto2moviles\ProyectoMovil2\VideoJuego\
+build_property.ProjectDir = C:\ProyectoFinalMoviles\ProyectoMovil2\VideoJuego\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/App.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/AppShell.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/MainPage.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/Resources/Styles/Colors.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/Resources/Styles/Styles.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/Resources/Themes/DarkTheme.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/Resources/Themes/DarkTheme.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Themes.DarkTheme.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Themes\DarkTheme.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Themes\DarkTheme.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/Resources/Themes/LightTheme.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/Resources/Themes/LightTheme.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.Resources.Themes.LightTheme.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Themes\LightTheme.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Themes\LightTheme.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/View/BattlePage.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/BattlePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.BattlePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\BattlePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\BattlePage.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/View/CharacterSelectionPage.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/CharacterSelectionPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.CharacterSelectionPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\CharacterSelectionPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\CharacterSelectionPage.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/View/CreditsPage.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/CreditsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.CreditsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\CreditsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\CreditsPage.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/View/GuidePage.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/GuidePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.GuidePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\GuidePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\GuidePage.xaml
 
-[C:/Proyecto2moviles/ProyectoMovil2/VideoJuego/View/LoadGamePage.xaml]
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/LoadGamePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.LoadGamePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\LoadGamePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\LoadGamePage.xaml
+
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/MainMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.MainMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\MainMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\MainMenuPage.xaml
+
+[C:/ProyectoFinalMoviles/ProyectoMovil2/VideoJuego/View/MatchSummaryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VideoJuego.View.MatchSummaryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\MatchSummaryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\MatchSummaryPage.xaml
