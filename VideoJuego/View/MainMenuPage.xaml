@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.MainMenuPage"
+             Title="Guerra de Reinos">
+    <ScrollView>
+        <VerticalStackLayout Padding="24" Spacing="18">
+            <VerticalStackLayout Spacing="2" HorizontalOptions="Center">
+                <Label Text="𝕲𝖚𝖊𝖗𝖗𝖆 𝕯𝖊 𝕽𝖊𝖎𝖓𝖔𝖘"
+                       FontSize="36"
+                       FontAttributes="Bold"
+                       TextColor="{DynamicResource AccentPurple}"
+                       HorizontalTextAlignment="Center"
+                       LineHeight="1.1" />
+                <Label Text="Pass-and-play de estrategia por turnos"
+                       FontSize="14"
+                       TextColor="{DynamicResource SecondaryTextColor}"
+                       HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+
+            <Image Source="logo_guerra_reinos.png"
+                   HeightRequest="240"
+                   Aspect="AspectFit"
+                   HorizontalOptions="Center" />
+
+            <Frame BackgroundColor="{DynamicResource CardBackgroundColor}"
+                   BorderColor="{DynamicResource SectionBorderColor}"
+                   CornerRadius="18"
+                   Padding="16"
+                   HasShadow="False">
+                <VerticalStackLayout Spacing="8">
+                    <Button Text="Nueva partida"
+                            Command="{Binding NewGameCommand}"
+                            Style="{StaticResource PrimaryMenuButtonStyle}" />
+
+                    <Button Text="Cargar partida"
+                            IsVisible="{Binding HasSavedGame}"
+                            Command="{Binding ContinueGameCommand}"
+                            Style="{StaticResource SecondaryMenuButtonStyle}" />
+
+                    <Button Text="Estadísticas"
+                            Command="{Binding OpenStatsCommand}"
+                            Style="{StaticResource SecondaryMenuButtonStyle}" />
+
+                    <Button Text="Créditos"
+                            Command="{Binding OpenCreditsCommand}"
+                            Style="{StaticResource SecondaryMenuButtonStyle}" />
+
+                    <Button Text="Guía de juego"
+                            Command="{Binding OpenGuideCommand}"
+                            Style="{StaticResource SecondaryMenuButtonStyle}" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <HorizontalStackLayout Spacing="8"
+                                   VerticalOptions="Center"
+                                   HorizontalOptions="Center">
+                <Label Text="Modo nocturno" FontSize="12" TextColor="{DynamicResource MutedTextColor}" VerticalTextAlignment="Center" />
+                <Switch IsToggled="{Binding IsDarkMode}" />
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

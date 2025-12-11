@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.MatchSummaryPage"
+             Title="Resumen">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="12">
+            <Label Text="Fin de la partida" FontSize="24" HorizontalTextAlignment="Center" />
+            <Label Text="{Binding WinnerInfo}" FontSize="16" HorizontalTextAlignment="Center" />
+            <Label Text="{Binding WinnerName, StringFormat='Ganador: {0}'}" FontSize="18" />
+            <Label Text="{Binding WinnerHealth, StringFormat='Vida restante: {0}'}" />
+            <Label Text="{Binding Turns, StringFormat='Turnos jugados: {0}'}" />
+            <Label Text="{Binding Player1Info}" />
+            <Label Text="{Binding Player2Info}" />
+            <Button Text="Menu principal" Command="{Binding BackToMenuCommand}" />
+            <Button Text="Ver estadisticas" Command="{Binding GoToStatsCommand}" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
