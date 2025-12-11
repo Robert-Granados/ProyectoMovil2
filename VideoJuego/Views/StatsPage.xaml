@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VideoJuego.Views.StatsPage"
+             Title="Estadisticas">
+    <VerticalStackLayout Padding="16" Spacing="12">
+        <Label Text="Estadisticas de reinos" FontSize="22" HorizontalTextAlignment="Center" TextColor="{DynamicResource AccentPurple}" />
+        <CollectionView ItemsSource="{Binding Players}" HeightRequest="320">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="{DynamicResource SectionBorderColor}" CornerRadius="10" Padding="10" Margin="0,4" BackgroundColor="{DynamicResource CardBackgroundColor}" HasShadow="False">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontSize="16" />
+                            <Label Text="{Binding Wins, StringFormat='Victorias: {0}'}" />
+                            <Label Text="{Binding Losses, StringFormat='Derrotas: {0}'}" />
+                            <Label Text="{Binding Draws, StringFormat='Empates: {0}'}" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button Text="Recargar" Command="{Binding LoadCommand}" />
+    </VerticalStackLayout>
+</ContentPage>
