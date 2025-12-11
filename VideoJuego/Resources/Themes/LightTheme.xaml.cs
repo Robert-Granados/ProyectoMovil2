@@ -1,4 +1,4 @@
-﻿namespace VideoJuego.Resources.Themes;
+namespace VideoJuego.Resources.Themes;
 
 public partial class LightTheme : ResourceDictionary
 {
