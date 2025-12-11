@@ -1,5 +1,6 @@
 namespace VideoJuego.Models;
 
+//clase para representar el estado del combate
 public class CombatState
 {
     public IList<Combatant> Combatants { get; set; } = new List<Combatant>();

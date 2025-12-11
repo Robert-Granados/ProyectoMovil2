@@ -1,5 +1,6 @@
 namespace VideoJuego.Models;
 
+//clase para el perfil del personaje
 public class CharacterProfile
 {
     public int Id { get; set; }

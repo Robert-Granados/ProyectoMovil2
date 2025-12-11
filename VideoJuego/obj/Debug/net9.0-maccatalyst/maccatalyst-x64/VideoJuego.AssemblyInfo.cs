@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoJuego")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f26f703e3ddc5f7d848c2f4a19297f0d6798b033")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+65cb4cafa1c29278fb6a189f123d5cf03ef70225")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoJuego")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoJuego")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst26.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst18.5")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("MacCatalyst15.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

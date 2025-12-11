@@ -1,9 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyecto2moviles\\VideoJuego\\",
+  "WorkspaceRootPath": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto2moviles\\videojuego\\views\\battlepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:services\\combatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:services\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\elfelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\elfelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\combatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\combatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\combatant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\combatant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\combatactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\combatactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\combatactionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\combatactionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\characterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\characterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\creditspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:views\\creditspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\creditspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:views\\creditspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\characterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\characterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\beastattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\beastattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\models\\battleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:models\\battleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\battlepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:views\\battlepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +70,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CombatService.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
+              "RelativeDocumentMoniker": "Services\\CombatService.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\CombatService.cs",
+              "RelativeToolTip": "Services\\CombatService.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:00:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterRepository.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CharacterRepository.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Services\\CharacterRepository.cs",
+              "RelativeToolTip": "Services\\CharacterRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:00:19.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElfElement.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\ElfElement.cs",
+              "RelativeDocumentMoniker": "Models\\ElfElement.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\ElfElement.cs",
+              "RelativeToolTip": "Models\\ElfElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:00:00.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CombatState.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CombatState.cs",
+              "RelativeDocumentMoniker": "Models\\CombatState.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CombatState.cs",
+              "RelativeToolTip": "Models\\CombatState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:59:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Combatant.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\Combatant.cs",
+              "RelativeDocumentMoniker": "Models\\Combatant.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\Combatant.cs",
+              "RelativeToolTip": "Models\\Combatant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:59:14.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CombatActionType.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CombatActionType.cs",
+              "RelativeDocumentMoniker": "Models\\CombatActionType.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CombatActionType.cs",
+              "RelativeToolTip": "Models\\CombatActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:58:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CombatActionResult.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CombatActionResult.cs",
+              "RelativeDocumentMoniker": "Models\\CombatActionResult.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CombatActionResult.cs",
+              "RelativeToolTip": "Models\\CombatActionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:58:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterProfile.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CharacterProfile.cs",
+              "RelativeDocumentMoniker": "Models\\CharacterProfile.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CharacterProfile.cs",
+              "RelativeToolTip": "Models\\CharacterProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:58:21.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditsPage.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\CreditsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CreditsPage.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\CreditsPage.xaml.cs",
+              "RelativeToolTip": "Views\\CreditsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:39:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreditsPage.xaml",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\CreditsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CreditsPage.xaml",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\CreditsPage.xaml",
+              "RelativeToolTip": "Views\\CreditsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T21:39:50.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharacterConfig.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CharacterConfig.cs",
+              "RelativeDocumentMoniker": "Models\\CharacterConfig.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\CharacterConfig.cs",
+              "RelativeToolTip": "Models\\CharacterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:39:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BeastAttack.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\BeastAttack.cs",
+              "RelativeDocumentMoniker": "Models\\BeastAttack.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\BeastAttack.cs",
+              "RelativeToolTip": "Models\\BeastAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:39:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BattleResult.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\BattleResult.cs",
+              "RelativeDocumentMoniker": "Models\\BattleResult.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Models\\BattleResult.cs",
+              "RelativeToolTip": "Models\\BattleResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:38:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-11T21:38:46.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BattlePage.xaml.cs",
-              "DocumentMoniker": "C:\\Proyecto2moviles\\VideoJuego\\Views\\BattlePage.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\BattlePage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\BattlePage.xaml.cs",
-              "ToolTip": "C:\\Proyecto2moviles\\VideoJuego\\Views\\BattlePage.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\BattlePage.xaml.cs",
               "RelativeToolTip": "Views\\BattlePage.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T23:31:06.354Z",
               "EditorCaption": ""

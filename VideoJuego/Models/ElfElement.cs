@@ -1,5 +1,6 @@
 namespace VideoJuego.Models;
 
+//clase para definir los elementos de los elfos
 public enum ElfElement
 {
     Fire = 0,

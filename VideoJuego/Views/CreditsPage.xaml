@@ -19,9 +19,7 @@
                     <Label Text="Proyecto: Guerra de Reinos"
                            FontSize="16"
                            FontAttributes="Bold" />
-                    <Label Text="Autor: Estudiante UTN - Curso Desarrollo de Videojuegos Móviles (.NET MAUI)"
-                           FontSize="14" />
-                    <Label Text="Profesor: Nombre del profesor / cátedra"
+                    <Label Text="Autores: Tiffany Alfaro- Seidy Oporta - Robert Granados - Curso Desarrollo de Aplicaciones para Dispositivos Móviles I"
                            FontSize="14" />
                     <Label Text="Tecnologías: C#, .NET MAUI, MVVM, SQLite"
                            FontSize="14" />

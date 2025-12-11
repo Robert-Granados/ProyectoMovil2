@@ -1,5 +1,6 @@
 namespace VideoJuego.Models;
 
+//clase para almacenar el resultado de la batalla
 public class BattleResult
 {
     public string WinnerName { get; set; } = string.Empty;
