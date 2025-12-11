@@ -1,5 +1,6 @@
 namespace VideoJuego.Models;
 
+//clase para representar un combatiente en el juego
 public class Combatant
 {
     public string PlayerName { get; set; } = string.Empty;

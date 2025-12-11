@@ -1,5 +1,6 @@
 namespace VideoJuego.Models;
 
+//Clase para representar la configuración de un personaje
 public class CharacterConfig
 {
     public Race Race { get; set; }
