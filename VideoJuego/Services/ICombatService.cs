@@ -1,4 +1,4 @@
-﻿using VideoJuego.Models;
+using VideoJuego.Models;
 
 namespace VideoJuego.Services;
 

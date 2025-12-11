@@ -17,3 +17,23 @@ Juego de combate por turnos, pass-and-play para Android. Dos jugadores eligen ra
 - **Bestias**: punos 20-30 y se autodanian 10; espada 1-10. Curar: 50% vida perdida.
 - **Turnos**: alternos; efectos de sangrado/curacion diferida se aplican al inicio del turno del combatiente.
 - **Victoria**: cuando un combatiente cae a 0 o menos se registra ganador, turnos y configuraciones, se guardan estadisticas y se navega a `MatchSummaryPage`.
+
+## Persistencia
+- SQLite en `AppDataDirectory/fantasy_duel.db3`.
+- Tablas: `Players` (wins/losses/draws), `Characters` (ultima configuracion), `Matches` (p1/p2, razas, variantes, ganador, empate, fecha), `SavedGames` (estado de combate para continuar).
+
+## Pantallas
+- **MainMenuPage**: titulo "Guerra de Reinos", botones Nueva partida, continuar (si hay guardado), Estadisticas, Creditos y Guia. Incluye switch de modo nocturno.
+- **PlayerSetupPage**: nombres de jugadores.
+- **CharacterSelectionPage**: pickers por raza con controles dependientes (arma/elemento/ataque) y boton "Comenzar combate" con validaciones.
+- **BattlePage**: muestra vida de ambos, distancia, turno actual, imagen segun raza, botones Avanzar/Retroceder/Curar, ataque contextual, guardar y reiniciar partida, log tipo consola.
+- **MatchSummaryPage**: ganador, vida restante, razas/variantes y turnos; botones a menu o estadisticas.
+- **StatsPage**: lista de jugadores con victorias/derrotas/empates y boton Recargar.
+- **CreditsPage** y **GuidePage**: contenido informativo.
+
+## Persistencia y ejemplos de uso
+- Al finalizar una partida, `BattleViewModel` llama a `PlayerRepository.UpdateStatsAsync`, guarda configuraciones en `CharacterRepository` y registra el match en `MatchRepository` con nombres, razas y variantes.
+- `StatsViewModel.LoadAsync` lee jugadores ordenados por victorias para mostrarlos en `StatsPage`.
+
+## Ejecucion
+Abrir `VideoJuego.sln` en Visual Studio 2022 (workload MAUI), seleccionar Android y ejecutar (F5) en emulador o dispositivo. El tema se puede alternar desde el menu principal.

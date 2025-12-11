@@ -1,10 +1,6 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using VideoJuego.Models;
 using VideoJuego.Services;
 
 namespace VideoJuego.ViewModels;
@@ -66,4 +62,3 @@ public partial class MatchSummaryViewModel : BaseViewModel
         WinnerInfo = result.WasDraw ? "Empate" : $"{result.WinnerName} ganó con {result.WinnerHealth:0} de vida restante";
     }
 }
-

@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging;
 using VideoJuego.Services;
 using VideoJuego.ViewModels;
 using VideoJuego.Views;

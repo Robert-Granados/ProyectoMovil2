@@ -1,7 +1,5 @@
 namespace VideoJuego.Models;
 
-//Clase para representar el resultado de una batalla entre dos personajes
-
 public class BattleResult
 {
     public string WinnerName { get; set; } = string.Empty;

@@ -1,6 +1,5 @@
 namespace VideoJuego.Models;
 
-//clase para representar los tipos de acciones de combate
 public enum CombatActionType
 {
     Advance = 0,

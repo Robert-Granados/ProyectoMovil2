@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using VideoJuego.Models;
 
 namespace VideoJuego.Services;

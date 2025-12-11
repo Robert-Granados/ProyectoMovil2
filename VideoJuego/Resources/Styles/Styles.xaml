@@ -408,7 +408,7 @@
 
     <Style TargetType="Page" ApplyToDerivedTypes="True">
         <Setter Property="Padding" Value="0"/>
-        <Setter Property="BackgroundColor" Value="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource OffBlack}}" />
+        <Setter Property="BackgroundColor" Value="{DynamicResource PageBackgroundColor}" />
     </Style>
 
     <Style TargetType="Shell" ApplyToDerivedTypes="True">
@@ -435,6 +435,62 @@
         <Setter Property="BarTextColor" Value="{AppThemeBinding Light={StaticResource Magenta}, Dark={StaticResource White}}" />
         <Setter Property="UnselectedTabColor" Value="{AppThemeBinding Light={StaticResource Gray200}, Dark={StaticResource Gray950}}" />
         <Setter Property="SelectedTabColor" Value="{AppThemeBinding Light={StaticResource Gray950}, Dark={StaticResource Gray200}}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="PrimaryMenuButtonStyle">
+        <Setter Property="BackgroundColor" Value="{DynamicResource MenuButtonBackground}" />
+        <Setter Property="TextColor" Value="{DynamicResource MenuButtonTextColor}" />
+        <Setter Property="FontAttributes" Value="Bold" />
+        <Setter Property="FontSize" Value="16" />
+        <Setter Property="CornerRadius" Value="16" />
+        <Setter Property="HeightRequest" Value="60" />
+        <Setter Property="Padding" Value="18,14" />
+        <Setter Property="Margin" Value="0,6" />
+        <Setter Property="HorizontalOptions" Value="Fill" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="SecondaryMenuButtonStyle" BasedOn="{StaticResource PrimaryMenuButtonStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource MenuButtonSecondaryBackground}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="DisabledMenuButtonStyle" BasedOn="{StaticResource PrimaryMenuButtonStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource MenuButtonDisabledBackground}" />
+        <Setter Property="Opacity" Value="0.6" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="ActionButtonBaseStyle">
+        <Setter Property="TextColor" Value="{StaticResource White}" />
+        <Setter Property="CornerRadius" Value="12" />
+        <Setter Property="Padding" Value="14,12" />
+        <Setter Property="FontAttributes" Value="Bold" />
+        <Setter Property="FontSize" Value="14" />
+        <Setter Property="Margin" Value="4,6" />
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="MinimumHeightRequest" Value="48" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="AttackButtonStyle" BasedOn="{StaticResource ActionButtonBaseStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource ActionAttackColor}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="HealButtonStyle" BasedOn="{StaticResource ActionButtonBaseStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource ActionHealColor}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="AdvanceButtonStyle" BasedOn="{StaticResource ActionButtonBaseStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource ActionAdvanceColor}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="RetreatButtonStyle" BasedOn="{StaticResource ActionButtonBaseStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource ActionRetreatColor}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="SaveButtonStyle" BasedOn="{StaticResource ActionButtonBaseStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource ActionSaveColor}" />
+    </Style>
+
+    <Style TargetType="Button" x:Key="RestartButtonStyle" BasedOn="{StaticResource ActionButtonBaseStyle}">
+        <Setter Property="BackgroundColor" Value="{DynamicResource ActionRestartColor}" />
     </Style>
 
 </ResourceDictionary>

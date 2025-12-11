@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoJuego", "VideoJuego.csproj", "{748B676F-724E-4895-8F38-05564987279A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoJuego", "VideoJuego.csproj", "{232C12C3-406D-487A-89CB-DE25EF24EC4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{748B676F-724E-4895-8F38-05564987279A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{748B676F-724E-4895-8F38-05564987279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{748B676F-724E-4895-8F38-05564987279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{748B676F-724E-4895-8F38-05564987279A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232C12C3-406D-487A-89CB-DE25EF24EC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232C12C3-406D-487A-89CB-DE25EF24EC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232C12C3-406D-487A-89CB-DE25EF24EC4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{232C12C3-406D-487A-89CB-DE25EF24EC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232C12C3-406D-487A-89CB-DE25EF24EC4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AE68DFE4-BEE3-4B3F-A3C9-918CD39FA588}
+		SolutionGuid = {CAD9E0F2-0088-4529-B64C-B5C54CB0FF64}
 	EndGlobalSection
 EndGlobal
