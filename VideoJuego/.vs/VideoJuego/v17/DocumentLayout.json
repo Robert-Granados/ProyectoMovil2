@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyecto2moviles\\VideoJuego\\",
+  "WorkspaceRootPath": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto2moviles\\videojuego\\views\\battlepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\creditspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:views\\creditspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|c:\\proyecto02-movil\\proyectomovil2\\videojuego\\views\\battlepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{232C12C3-406D-487A-89CB-DE25EF24EC4B}|VideoJuego.csproj|solutionrelative:views\\battlepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreditsPage.xaml",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\CreditsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CreditsPage.xaml",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\CreditsPage.xaml",
+              "RelativeToolTip": "Views\\CreditsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T03:04:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BattlePage.xaml.cs",
-              "DocumentMoniker": "C:\\Proyecto2moviles\\VideoJuego\\Views\\BattlePage.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\BattlePage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\BattlePage.xaml.cs",
-              "ToolTip": "C:\\Proyecto2moviles\\VideoJuego\\Views\\BattlePage.xaml.cs",
+              "ToolTip": "C:\\PROYECTO02-MOVIL\\ProyectoMovil2\\VideoJuego\\Views\\BattlePage.xaml.cs",
               "RelativeToolTip": "Views\\BattlePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T23:31:06.354Z",
               "EditorCaption": ""
