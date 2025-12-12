@@ -214,7 +214,7 @@ public class CombatService : ICombatService
 
         if (state.Distance == 0 && attacker.Config.HumanWeapon != HumanWeapon.SniperRifle)
         {
-            // rifle sigue funcionando de cerca pero con daño bajo; permitimos para mantener flujo
+            // rifle  funcionando de cerca pero con daño bajo.
         }
 
         int damage = state.Distance == 2 ? _random.Next(10, 21) : _random.Next(1, 6);
