@@ -124,7 +124,7 @@ public partial class BattleViewModel : BaseViewModel
             return;
         }
 
-        // New battle flow
+
         _sessionService.RestoredCombatState = null;
 
         if (_sessionService.Player1Character is null || _sessionService.Player2Character is null)
@@ -246,7 +246,7 @@ public partial class BattleViewModel : BaseViewModel
         ActiveImage = _state.Active.ImageResource;
         AttackLabel = BuildAttackLabel(_state.Active.Config);
 
-        // Sync log from state in case effects added messages.
+        
         if (Log.Count == 0 && _state.Log.Count > 0)
         {
             foreach (var entry in _state.Log)
